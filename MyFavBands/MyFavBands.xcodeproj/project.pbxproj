@@ -29,6 +29,9 @@
 		36BC61D31A90A777001F908B /* logo402.png in Resources */ = {isa = PBXBuildFile; fileRef = 36BC61D21A90A777001F908B /* logo402.png */; };
 		36BC61D51A90A8AF001F908B /* logo76.png in Resources */ = {isa = PBXBuildFile; fileRef = 36BC61D41A90A8AF001F908B /* logo76.png */; };
 		36BC61D71A90A953001F908B /* logo152.png in Resources */ = {isa = PBXBuildFile; fileRef = 36BC61D61A90A953001F908B /* logo152.png */; };
+		E83E9DA51A92EEB700C20D22 /* Carrie Underwood.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E83E9DA41A92EEB700C20D22 /* Carrie Underwood.jpg */; };
+		E83E9DA71A92EECA00C20D22 /* Madison Rising.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E83E9DA61A92EECA00C20D22 /* Madison Rising.jpg */; };
+		E83E9DA91A92EEE000C20D22 /* Pearl-Jam Stickman.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E83E9DA81A92EEE000C20D22 /* Pearl-Jam Stickman.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -68,6 +71,9 @@
 		36BC61D21A90A777001F908B /* logo402.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo402.png; sourceTree = "<group>"; };
 		36BC61D41A90A8AF001F908B /* logo76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo76.png; sourceTree = "<group>"; };
 		36BC61D61A90A953001F908B /* logo152.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo152.png; sourceTree = "<group>"; };
+		E83E9DA41A92EEB700C20D22 /* Carrie Underwood.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Carrie Underwood.jpg"; sourceTree = "<group>"; };
+		E83E9DA61A92EECA00C20D22 /* Madison Rising.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Madison Rising.jpg"; sourceTree = "<group>"; };
+		E83E9DA81A92EEE000C20D22 /* Pearl-Jam Stickman.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Pearl-Jam Stickman.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +156,9 @@
 		368766BA1A8FA7C50026EE69 /* images */ = {
 			isa = PBXGroup;
 			children = (
+				E83E9DA81A92EEE000C20D22 /* Pearl-Jam Stickman.jpg */,
+				E83E9DA61A92EECA00C20D22 /* Madison Rising.jpg */,
+				E83E9DA41A92EEB700C20D22 /* Carrie Underwood.jpg */,
 				368766CB1A8FB4410026EE69 /* Main.png */,
 				368766BB1A8FA7E70026EE69 /* 38 Special.jpg */,
 				368766BC1A8FA7E70026EE69 /* Band Perry.jpg */,
@@ -258,7 +267,9 @@
 			files = (
 				368766CC1A8FB4410026EE69 /* Main.png in Resources */,
 				368766C91A8FA7E70026EE69 /* Little Big Town.jpg in Resources */,
+				E83E9DA91A92EEE000C20D22 /* Pearl-Jam Stickman.jpg in Resources */,
 				36BC61D51A90A8AF001F908B /* logo76.png in Resources */,
+				E83E9DA51A92EEB700C20D22 /* Carrie Underwood.jpg in Resources */,
 				368766C61A8FA7E70026EE69 /* Joe Cocker.jpg in Resources */,
 				368766A01A8F97200026EE69 /* Main.storyboard in Resources */,
 				368766C41A8FA7E70026EE69 /* Band Perry.jpg in Resources */,
@@ -267,6 +278,7 @@
 				36BC61CF1A90A742001F908B /* logo292.png in Resources */,
 				368766A51A8F97200026EE69 /* LaunchScreen.xib in Resources */,
 				368766C51A8FA7E70026EE69 /* Eagles.jpg in Resources */,
+				E83E9DA71A92EECA00C20D22 /* Madison Rising.jpg in Resources */,
 				368766C81A8FA7E70026EE69 /* Leonard Skynard.jpg in Resources */,
 				368766CA1A8FA7E70026EE69 /* Miranda Lambert.jpg in Resources */,
 				368766C71A8FA7E70026EE69 /* Journey.jpg in Resources */,
